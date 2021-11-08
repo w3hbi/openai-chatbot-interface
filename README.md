@@ -1,2 +1,10 @@
 # openai-chatbot-interface
-An intelligent Chatbot using openai models (Davinci)
+This project is a desktop interface using kivy package to create an intelligent chatbot that call openai model (Davinci) 
+
+### Required Packages :
+- openai
+- json
+- kivy
+
+### Result :
+<img src='' alt='result' height='300'/>
