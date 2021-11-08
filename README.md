@@ -7,4 +7,4 @@ This project is a desktop interface using kivy package to create an intelligent 
 - kivy
 
 ### Result :
-<img src='/output/result.png' alt='result' height='300'/>
+<img src='output/result.png' alt='result' height='300'/>
