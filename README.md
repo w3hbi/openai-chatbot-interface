@@ -1,11 +1,9 @@
 # OpenAI Chatbot Interface
 
-![Project Logo](link-to-your-logo.png)
-
 Welcome to the OpenAI Chatbot Interface – an intelligent desktop application built with the Kivy package that harnesses the power of OpenAI's GPT-3 model (Davinci). With this chatbot interface, you can have interactive and intelligent conversations with the chatbot, making it a versatile tool for various applications.
 
 <center>
-  <img src='./output/Result.PNG' alt='result' height='400'/>
+  <img src='./output/Result.PNG' alt='result' height='400' style="text-align: center;"/>
 </center>
 
 ## Features
